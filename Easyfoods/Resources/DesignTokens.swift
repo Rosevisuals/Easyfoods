@@ -112,3 +112,4 @@ extension Int {
         return "UGX \(formatter.string(from: NSNumber(value: self)) ?? "\(self)")"
     }
 }
+
